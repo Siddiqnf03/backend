@@ -1,0 +1,20 @@
+{
+  "name": "backend-series",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Siddiqnf03/Backend#readme",
+  "bugs": {
+    "url": "https://github.com/Siddiqnf03/Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siddiqnf03/Backend.git"
+  },
+  "license": "ISC",
+  "author": "Siddiq N F",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
